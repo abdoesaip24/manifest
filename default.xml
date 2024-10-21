@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="uTF-8"">
+<manifest>
+<remote fetch="https://github.com/abdoesaip24" name="origin"/>
+
+
+<default remote="origin" sync-j="4" revision="master"/>
+
+
+
+</manifest>
